@@ -18,8 +18,6 @@ as surrogates for the inaccessible private distributions. It has three stages:
 3. **Context-aware router training** — experts are merged into a single MoE and a context-aware
    router is trained on the union of proxy datasets.
 
-See `metamoe.pdf` for the full paper.
-
 ## Repository structure
 
 ```
